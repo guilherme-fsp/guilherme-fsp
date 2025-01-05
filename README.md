@@ -4,10 +4,10 @@
 🚀 Em busca de oportunidades para crescer como desenvolvedor.  
 
 ## 🔝 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obifks&layout=compact)
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obifks&show_icons=true&theme=radical)
 
 ## 🔧 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
