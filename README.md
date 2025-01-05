@@ -4,7 +4,6 @@
 🚀 Em busca de oportunidades para crescer como desenvolvedor.  
 
 ## 🔝 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obifks&layout=compact)
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obifks&langs_count=8&theme=radical)
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obifks&show_icons=true&theme=radical)
