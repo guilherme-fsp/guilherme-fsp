@@ -1,7 +1,7 @@
 # Olá!  Me chamo Guilherme Pereira 
-💻 Desenvolvedor Python e apaixonado por Ciência de Dados.  
-📚 Estudando expressões regulares e automação com Python.  
-🚀 Em busca de oportunidades para crescer como desenvolvedor.  
+ Desenvolvedor Python e apaixonado por Ciência de Dados.  
+ Estudando expressões regulares e automação com Python.  
+ Em busca de oportunidades para crescer como desenvolvedor.  
  
 ## 🔝 Linguagens Mais Usadas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-fsp&theme=radical)
