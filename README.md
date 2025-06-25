@@ -1,8 +1,7 @@
 # Olá!  Me chamo Guilherme Pereira 
  Desenvolvedor Python.
  Criando soluções e realizando o irrealizável. 
- .  
- .  
+   
  
 --  Linguagens Mais Usadas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-fsp&theme=radical)
