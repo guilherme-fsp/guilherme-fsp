@@ -10,12 +10,6 @@ Desenvolvedor **Python** focado em criar soluções inovadoras e transformar pen
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-fsp&show_icons=true&theme=radical)
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,11 +24,9 @@ Desenvolvedor **Python** focado em criar soluções inovadoras e transformar pen
 
 ---
 
-## 🏆 Cool Stats
+##  Other Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-fsp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-fsp&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=guilherme-fsp&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilherme-fsp&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=guilherme-fsp&color=blue&style=flat)
 ---
