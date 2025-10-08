@@ -28,6 +28,7 @@ Desenvolvedor **Python** focado em criar soluções inovadoras e transformar pen
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilherme-fsp&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=guilherme-fsp&color=blue&style=flat)
 ---
 
